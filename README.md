@@ -1,4 +1,4 @@
-## Hello! 👋
+# Hello, I'm Gage. 👋
 I'm actively going to college for my Associate's in IT and seeking my Bachelor's in Software Development.
 I am currently working on learning JavaScript
 
