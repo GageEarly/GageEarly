@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello! 👋
+I'm actively going to college for my Associate's in IT and seeking my Bachelor's in Software Development.
+I am currently working on learning JavaScript
 
 <!--
 **GageEarly/GageEarly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
