@@ -2,9 +2,9 @@
 <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> Hello, I'm Gage</h2>
 
 <!--About me-->
-<p id="About Me"> I'm a college student currently finishing my Associates in IT and I'm striving for my bachelor's in Software Development. Currently I'm working on learning HTML and CSS before moving onto Javascript .
+<p id="About Me"> I'm a college student currently finishing my Associates in IT and I'm striving for my bachelor's in Software Development. Currently I'm working on learning Python and Git.
 <!--Personal Goal-->
-<p id="Goals"> My goal is for me to become a full stack developer and I am currently working towards this by following along with tutorials and will be working on projects here shortly!</p>
+<p id="Goals"> My goal is for me to become a Software developer and I am currently working towards this by following along with tutorials and will be working on projects here shortly!</p>
 
 <!--Connect-->
 <h3>Connect with me!</h3>
