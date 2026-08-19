@@ -1,13 +1,19 @@
-<!--Greetings-->
-<h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> Hello, I'm Gage</h2>
+<!-- Greetings -->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="Waving hand"> Hello, I'm Gage
+</h1>
 
-<!--About me-->
-<p id="About Me"> I'm a college student currently slowly finishing up my Associates in IT and I'm striving for my bachelor's in Software Development. Currently I work for Google as a DC Tech and do some basic programming as I feel things could be better but I'm looking to potentially evolve into full-time programming but we'll see what the future holds! </p>
+<!-- About Me -->
+<p>
+  I'm an IT student completing my Associate's degree and aiming for a Bachelor's in Software Development. 
+  Currently, I work as a Data Center Technician at Google, where I automate day-to-day workflows with custom scripts. 
+  I'm passionate about building efficient tools and looking to transition into full-time software engineering.
+</p>
 
-<!--Connect-->
+<!-- Connect -->
 <h3>Connect with me!</h3>
 <p>
   <a href="https://www.linkedin.com/in/gage-early/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gage%20Early-blue?style=plastic&logo=linkedin" alt="LinkedIn Badge" width="120">
+    <img src="https://img.shields.io/badge/LinkedIn-Gage%20Early-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="120">
   </a>
 </p>
