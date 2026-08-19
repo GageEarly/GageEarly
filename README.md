@@ -7,5 +7,7 @@
 <!--Connect-->
 <h3>Connect with me!</h3>
 <p>
-  <a href="https://www.linkedin.com/in/gage-early/" target="_blank"><img src="https://img.shields.io/badge/Gage%20Early%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=[https://linkedin.com/in/](https://www.linkedin.com/in/gage-early/" alt ="LinkedIn Badge" width="100"</a>
+  <a href="https://www.linkedin.com/in/gage-early/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gage%20Early-blue?style=plastic&logo=linkedin" alt="LinkedIn Badge" width="120">
+  </a>
 </p>
