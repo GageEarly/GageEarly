@@ -1,8 +1,13 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"> Hello, I'm Gage
 I'm an IT student completing my Associate's degree and aiming for a Bachelor's in Software Development. Currently, I work as a Data Center Technician at Google and am looking to transition into part-time software engineering.
 
-<h2 align="center">My Stack</h2>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GageEarly/GageEarly/main/Assets/my-stack-header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GageEarly/GageEarly/main/Assets/my-stack-header-light.svg">
+    <img src="https://raw.githubusercontent.com/GageEarly/GageEarly/main/Assets/my-stack-header-light.svg" height="46">
+  </picture>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" />
