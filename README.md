@@ -10,7 +10,11 @@ I'm an IT student completing my Associate's degree and aiming for a Bachelor's i
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" />
 </div>
 
-<h3 style="margin-bottom:0">Connect with me!</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GageEarly/GageEarly/main/Assets/connect-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GageEarly/GageEarly/main/Assets/connect-header-light.svg">
+  <img src="https://raw.githubusercontent.com/GageEarly/GageEarly/main/Assets/connect-header-light.svg" height="46">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GageEarly/GageEarly/main/divider-white.svg">
