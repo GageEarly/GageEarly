@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"> Hello, I'm Gage
-I'm an IT student completing my Associate's degree and aiming for a Bachelor's in Software Development. Currently, I work as a Data Center Technician at Google and am looking to transition into part-time software engineering.
+I'm an IT student completing my Associate's degree and aiming for a Bachelor's in Software Development. Currently, I work as a Data Center Technician at Google and am looking into part-time software engineering.
 
 <div align="center">
   <picture>
