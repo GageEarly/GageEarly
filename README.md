@@ -1,6 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"> Hello, I'm Gage
-I'm an IT student completing my Associate's degree and aiming for a Bachelor's in Software Development. Currently, I work as a Data Center Technician at Google and am looking into part-time software engineering.
+I'm an IT student completing my Associate's degree in Information Technologies and aiming for a Bachelor's in Software Development. Currently, I work as a Data Center Technician at Google and am looking into part-time software engineering.
 
+<section id="My Stack">
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GageEarly/GageEarly/main/Assets/my-stack-header-dark.svg">
@@ -14,6 +15,8 @@ I'm an IT student completing my Associate's degree and aiming for a Bachelor's i
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" />
 </div>
+</section>
+
 
 <br>
 
