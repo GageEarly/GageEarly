@@ -15,15 +15,36 @@ I'm an IT student completing my Associate's degree in Information Technologies a
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" />
+</div>
+</section>
+
+<br>
+
+<div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=GageEarly&theme=dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=GageEarly&theme=default&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GageEarly&theme=default&hide_border=true">
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GageEarly&show_icons=true&theme=dark&hide_border=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=GageEarly&show_icons=true&theme=default&hide_border=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=GageEarly&show_icons=true&theme=default&hide_border=true&count_private=true">
+  </picture>
 </div>
 
-</section>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=GageEarly&theme=dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=GageEarly&theme=default&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GageEarly&theme=default&hide_border=true">
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GageEarly&layout=compact&theme=dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GageEarly&layout=compact&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GageEarly&layout=compact&theme=default&hide_border=true">
+  </picture>
+</div>
 
 
 
